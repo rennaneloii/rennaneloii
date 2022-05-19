@@ -1,8 +1,8 @@
 
 
 
-- 🔭 Técnico em Desenvolvimento de Sistemas
-- ⚡ 2ºAno A EM
+- 🔭 Técnico em Desenvolvimento de Sistemas.
+- ⚡ 2ºAno A EM.
 
 ##
 
