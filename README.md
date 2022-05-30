@@ -30,5 +30,6 @@
     
   <div style="display: inline_block"><br>
      <img align="right" alt="coding-cat" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" height="150" style="border-radius:50px;"
-    ![Snake animation](https://github.com/rennaneloi/rennaneloi/blob/output/github-contribution-grid-snake.svg)
+          
+  ![Snake animation](https://github.com/rennaneloi/rennaneloi/blob/output/github-contribution-grid-snake.svg)
 </div>
