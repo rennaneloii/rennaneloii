@@ -13,8 +13,8 @@
   <a href = "mailto:rennaneloi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <br>
    <a href="https://github.com/rennaneloi">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rennaneloi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennaneloi&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennaneloi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennaneloi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
     
 <div style="display: inline_block"><br>
