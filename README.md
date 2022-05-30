@@ -1,6 +1,5 @@
 
 
-- ⚡Estudando HTML e CSS
 - ⚡Técnico em Desenvolvimento de Sistemas.
 - ⚡ 2ºAno A EM.
 
