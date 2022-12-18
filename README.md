@@ -1,7 +1,7 @@
 
 
-- ⚡Técnico em Desenvolvimento de Sistemas.
-- ⚡ 2ºAno A EM.
+- ⚡ Systems Development.
+- ⚡ 3ºAno A EM.
 
 ##
 
